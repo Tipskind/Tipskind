@@ -1,4 +1,5 @@
-## Hi there 👋
+## Tipskind - Marcus Løfberg - newton
+Developer at ITU👋
 
 <!--
 **Tipskind/Tipskind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
